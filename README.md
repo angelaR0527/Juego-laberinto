@@ -1,7 +1,7 @@
 # 📱 Juego-laberinto The Maze Game
 
 **Descripción breve:**  
-Un videojuego desarrollado en Unreal Enginee siguiendo los pasos del tutorial de Ryan Laley: https://www.youtube.com/playlist?list=PL4G2bSPE_8uk84cmXmVO-uS8ioIXEJkh0;  como parte de la asignatura móviles del curso Desarrollo de Aplicaciones Multiplataforma.
+Un videojuego desarrollado en Unreal Enginee siguiendo los pasos del tutorial de [Ryan Laley](https://www.youtube.com/playlist?list=PL4G2bSPE_8uk84cmXmVO-uS8ioIXEJkh0); como parte de la asignatura móviles del curso Desarrollo de Aplicaciones Multiplataforma.
 
 ## 🚀 Juego
 - 👤 1 jugador
