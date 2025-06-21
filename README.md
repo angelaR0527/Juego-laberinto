@@ -21,7 +21,8 @@ Un videojuego desarrollado en Unreal Enginee siguiendo los pasos del tutorial de
 
 ## ⚙️ Instalación
 Para windows x32 bits.
-Descarga la carpeta completa 📁**laberinto_razeARG** con todo su contenido ( importante para que el juego funcione correctamente). Para ejecutar el juego, ejecuta la aplicación **razeARG**.
+Descarga la carpeta completa 📁**laberinto_razeARG** con todo su contenido (❗importante para que el juego funcione correctamente). Para ejecutar el juego, ejecuta la aplicación **razeARG**.
+Debido al peso de la carpeta, los archivos se descargan en el siguiente enlace: https://drive.google.com/file/d/1yJPtwcsU51tj8JccRq9PdPzVH8JUlbpz/view?usp=sharing
 
 ![image](https://github.com/user-attachments/assets/9e0c53de-22e6-4001-b035-f78852c9d77b)
 
